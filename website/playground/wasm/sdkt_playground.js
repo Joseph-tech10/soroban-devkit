@@ -1,5 +1,3 @@
-/* @ts-self-types="./sdkt_playground.d.ts" */
-
 /**
  * Compare two Soroban contract WASM binaries using the same offline
  * upgrade-safety classification as the CLI.
